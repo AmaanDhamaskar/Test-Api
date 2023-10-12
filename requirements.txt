@@ -1,5 +1,6 @@
 fastapi
 openai
 pathlib
+tiktoken
 llama_index
 pinecone-client
