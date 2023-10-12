@@ -4,3 +4,6 @@ pathlib
 tiktoken
 llama_index
 pinecone-client
+pydantic
+uvicorn
+aiofiles
