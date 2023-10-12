@@ -2,4 +2,4 @@ fastapi
 openai
 pathlib
 llama_index
-pinecone
+pinecone-client
