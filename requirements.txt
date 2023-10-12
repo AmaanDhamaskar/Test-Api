@@ -1,0 +1,6 @@
+fastapi
+openai
+pathlib
+enum
+llama_index
+pinecone
