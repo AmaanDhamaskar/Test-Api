@@ -31,7 +31,9 @@ pinecone.init(api_key=api_key, environment="gcp-starter")
 
 app = FastAPI()
 
-origins = ["*"]
+origins = [
+    "http://localhost:3000",  
+]
 
 app.add_middleware(
     CORSMiddleware,
