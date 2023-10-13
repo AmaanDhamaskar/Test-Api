@@ -43,7 +43,7 @@ app.add_middleware(
 
 
 openai.api_key = "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"
-global SYSTEM_PROMPT
+
 SYSTEM_PROMPT = "Act as a teacher. Present the solution to every query in a informative manner."
 
 class InputSchema(BaseModel):
