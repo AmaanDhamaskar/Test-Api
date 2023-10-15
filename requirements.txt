@@ -9,3 +9,5 @@ pydantic
 uvicorn
 aiofiles
 transformers
+pypdf
+torch
